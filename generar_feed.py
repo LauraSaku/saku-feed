@@ -85,22 +85,22 @@ def build_feed(prods):
             vimg = img_by_id.get(v.get("image_id")) or main_img
             link = f"{base_link}?variant={vid}"
             addl_xml = "".join(
-                f"\n      <additional_image_link>{escape(a)}</additional_image_link>"
+                f"\n      <g:additional_image_link>{escape(a)}</g:additional_image_link>"
                 for a in addl
             )
             items.append(
                 f"""    <item>
-      <id>{vid}</id>
-      <item_group_id>{pid}</item_group_id>
-      <title>{clean(title)}</title>
-      <description>{desc}</description>
-      <link>{escape(link)}</link>
-      <image_link>{escape(vimg)}</image_link>
-      <condition>new</condition>
-      <availability>{avail}</availability>
-      <price>{price}</price>
-      <shipping_weight>{weight:.4f} kg</shipping_weight>
-      <brand>Sakú</brand>{addl_xml}
+      <g:id>{vid}</g:id>
+      <g:item_group_id>{pid}</g:item_group_id>
+      <g:title>{clean(title)}</g:title>
+      <g:description>{desc}</g:description>
+      <g:link>{escape(link)}</g:link>
+      <g:image_link>{escape(vimg)}</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>{avail}</g:availability>
+      <g:price>{price}</g:price>
+      <g:shipping_weight>{weight:.4f} kg</g:shipping_weight>
+      <g:brand>Sakú</g:brand>{addl_xml}
     </item>"""
             )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
