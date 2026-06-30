@@ -22588,5 +22588,31 @@ Consultá la guía de talles antes de realizar tu compra para elegir la medida i
       <g:shipping_weight>0.0000 kg</g:shipping_weight>
       <g:brand>Sakú</g:brand>
     </item>
+    <item>
+      <g:id>1551385181</g:id>
+      <g:item_group_id>353159013</g:item_group_id>
+      <g:title>Tanga Estrella (1)</g:title>
+      <g:description>Descubrí la Tanga Estrella, una prenda única inspirada en los colores de nuestra bandera nacional. Con una estampa premium DTF que resalta cada detalle y brillos aplicados a mano, esta bombacha combina patriotismo y estilo en una pieza artesanal inigualable. Perfecta para sentirte orgullosa y deslumbrante en cualquier ocasión. Hecha con pasión en Argentina para vos.</g:description>
+      <g:link>https://www.sakulenceria.com/productos/bombi-argentina-lwfhr/?variant=1551385181</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/1000176142-312c8ad08336e0d58917827856053635-1024-1024.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10200.00 ARS</g:price>
+      <g:shipping_weight>0.0000 kg</g:shipping_weight>
+      <g:brand>Sakú</g:brand>
+    </item>
+    <item>
+      <g:id>1551385183</g:id>
+      <g:item_group_id>353159013</g:item_group_id>
+      <g:title>Tanga Estrella (2 )</g:title>
+      <g:description>Descubrí la Tanga Estrella, una prenda única inspirada en los colores de nuestra bandera nacional. Con una estampa premium DTF que resalta cada detalle y brillos aplicados a mano, esta bombacha combina patriotismo y estilo en una pieza artesanal inigualable. Perfecta para sentirte orgullosa y deslumbrante en cualquier ocasión. Hecha con pasión en Argentina para vos.</g:description>
+      <g:link>https://www.sakulenceria.com/productos/bombi-argentina-lwfhr/?variant=1551385183</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/1000176142-312c8ad08336e0d58917827856053635-1024-1024.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10200.00 ARS</g:price>
+      <g:shipping_weight>0.0000 kg</g:shipping_weight>
+      <g:brand>Sakú</g:brand>
+    </item>
   </channel>
 </rss>
