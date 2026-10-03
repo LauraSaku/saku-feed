@@ -21222,5 +21222,34 @@ Stock inmediato</g:description>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/chatgpt-image-18-sept-2026-10_33_22-p-m-beb6e4143800039dd017897842360661-1024-1024.png</g:additional_image_link>
       <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/9ddbe352-2a24-4ed2-8103-5dd511c4d45a-4a869debe7267e07ad17897842385017-1024-1024.png</g:additional_image_link>
     </item>
+    <item>
+      <g:id>1609706900</g:id>
+      <g:item_group_id>371195845</g:item_group_id>
+      <g:title>Bombi de regalo</g:title>
+      <g:description>Bombi de regalo SAKÚ incluida con tu compra desde $30.000. Modelo según disponibilidad.</g:description>
+      <g:link>https://www.sakulenceria.com/productos/bombi-de-regalo-r7xfs/?variant=1609706900</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/captura11-b0021041637324dcaa16386326747071-1024-1024-5c76bdd7b179e97ccf17908676909975-1024-1024.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7500.00 ARS</g:price>
+      <g:shipping_weight>0.0000 kg</g:shipping_weight>
+      <g:brand>Sakú</g:brand>
+      <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/mail-regalo-bombi-3bf7e4b3caebe8eedd17908684026529-1024-1024.jpg</g:additional_image_link>
+      <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/mail-regalo-envio-d6453cf9385971f52517908684036611-1024-1024.jpg</g:additional_image_link>
+      <g:additional_image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/mail-regalo-bolsita-29d568561519dae46517908684046894-1024-1024.jpg</g:additional_image_link>
+    </item>
+    <item>
+      <g:id>1609706950</g:id>
+      <g:item_group_id>371195865</g:item_group_id>
+      <g:title>Bolsita SAKÚ de regalo</g:title>
+      <g:description>Bolsita premium SAKÚ de regalo incluida con tu compra desde $60.000.</g:description>
+      <g:link>https://www.sakulenceria.com/productos/bolsita-saku-de-regalo-2adhw/?variant=1609706950</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/382/908/products/bolsita-regalo-fe5e478d0d76994d2117908677559529-1024-1024.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10000.00 ARS</g:price>
+      <g:shipping_weight>0.0000 kg</g:shipping_weight>
+      <g:brand>Sakú</g:brand>
+    </item>
   </channel>
 </rss>
